@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Javascript, React, Typescript**
 
-- 👨‍💻 All of my projects are available at [deskar.pl](http://deskar.pl/#)
+- 👨‍💻 All of my projects are available at [deskar.pl](https://www.deskar.pl)
 
 - 💬 Ask me about **Frontend**
 
