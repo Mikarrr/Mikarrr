@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikarrr&label=Profile%20views&color=0e75b6&style=flat" alt="mikarrr" /> </p>
 
-- 🔭 I’m currently working on **Futuristic page**
+- 🔭 I’m currently working on **React Blog and LagasinAPI**
 
 - 🌱 I’m currently learning **Javascript, React, Typescript**
 
