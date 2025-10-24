@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AI & Automation**
 
-- 👨‍💻 All of my projects are available at [deskar.pl](https://www.devkar.pl)
+- 👨‍💻 All of my projects are available at [devkar.pl](https://www.devkar.pl)
 
 - 💬 Ask me about **Frontend, AI & Automation**
 
