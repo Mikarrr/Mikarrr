@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Real Estate Search and LagasinAPI**
 
-- 🌱 I’m currently learning **Javascript, React, Typescript**
+- 🌱 I’m currently learning **AI & Automation**
 
-- 👨‍💻 All of my projects are available at [deskar.pl](https://www.deskar.pl)
+- 👨‍💻 All of my projects are available at [deskar.pl](https://www.devkar.pl)
 
-- 💬 Ask me about **Frontend**
+- 💬 Ask me about **Frontend, AI & Automation**
 
 - 📫 How to reach me **karwacki.mikolaj123@gmail.com**
 
