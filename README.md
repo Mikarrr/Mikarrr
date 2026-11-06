@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikarrr&label=Profile%20views&color=0e75b6&style=flat" alt="mikarrr" /> </p>
 
-- 🔭 I’m currently working on **Real Estate Search and LagasinAPI**
+- 🔭 I’m currently working on **RAG Agentic Chunking**
 
 - 🌱 I’m currently learning **AI & Automation**
 
 - 👨‍💻 All of my projects are available at [devkar.pl](https://devkar.pl)
 
-- 💬 Ask me about **Frontend, AI & Automation**
+- 💬 Ask me about **Full-stack dev, AI & Automation**
 
 - 📫 How to reach me **karwacki.mikolaj123@gmail.com**
 
